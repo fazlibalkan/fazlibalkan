@@ -1,10 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **fazlibalkan/fazlibalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Profile views: fazlibalkan](https://gpvc.arturio.dev/fazlibalkan)](https://github.com/fazlibalkan)
+[![Linkedin: fazlibalkan](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fazl%C4%B1-balkan-736572208/)](https://www.linkedin.com/in/fazl%C4%B1-balkan-736572208/)
+[![mail: fazlibalkan](https://img.shields.io/badge/-Mail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fazlibalkan@outlook.com)](mailto:fazlibalkan@outlook.com)
+
+### 📈 My Github status:
+[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=fazlibalkan&show_icons=true&theme=radical)](https://github.com/fazlibalkan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlibalkan&layout=compact&theme=radical)](https://github.com/fazlibalkan)
